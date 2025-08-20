@@ -13,7 +13,7 @@
 ### Lecture Notes
 > From the course notes reviewed in class, take note on the material from this lesson as it relates to the Lesson Objectives and Guiding Question(s):
 
-...
+Use different passwords for different sites and make it a hard and strong password. Cybersecurity professionals make a decent amount of money (100k) and the pay ranges to about 300k for many different positions.
 
 ### Application / Personal Research / Summary
 > In your own words, write a summary of this lesson and connect it to yourself and the real-world. If needbe, do a rapid research on the topic to help with you summary
@@ -22,5 +22,5 @@
 
 ### Vocabulary
 > Include the vocabulary word(s) from this lesson with a defintion
-
+Cybersecurity is about pretecting you from digital attacks and accidents. Cybersecruity professionals are the digital verions of: police, firefighter, investigator, doctor, pathologist, and advisor.
 ...
